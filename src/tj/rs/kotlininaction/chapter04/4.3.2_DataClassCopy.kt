@@ -8,5 +8,5 @@ package tj.rs.kotlininaction.chapter04.p05
 data class Client(val name: String, val postalCode: Int)
 
 fun main(args: Array<String>) {
-    
+
 }
